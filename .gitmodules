@@ -1,0 +1,3 @@
+[submodule "perkeep"]
+	path = perkeep
+	url = https://github.com/perkeep/perkeep.git
